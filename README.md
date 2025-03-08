@@ -1,14 +1,15 @@
-# Hi there, I'm Yogesh Patil! 👋
+<h1 align="center">Hi, I'm Yogesh Patil! 👋</h1>  
 
-Aspiring **Data Analyst Fresher** passionate about data-driven decision-making and uncovering insights from data.
+💡 **Aspiring Data Analyst Fresher** passionate about data-driven decision-making and uncovering insights from data.  
+🎓 Learning Python, SQL, Power BI, and Statistics to solve real-world problems with data.  
+🎯 Aiming to become a **Data Analyst** and help businesses make better decisions through data.  
 
-- 🔭 I’m currently working on enhancing my data analysis skills.
-- 🌱 I’m currently learning advanced machine learning techniques.
-- 👯 I’m looking to collaborate on data-centric projects.
-- 💬 Ask me about Python, SQL, and data visualization.
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
-- ⚡ Fun fact: I love turning complex data into simple stories.
-
+🔧 **Skills:**  
+- **Programming:** Python, SQL  
+- **Data Analysis:** Pandas, NumPy, Statistics  
+- **Visualization:** Power BI, Excel, Matplotlib  
+- **Soft Skills:** Problem-Solving, Communication, Critical Thinking
+  
 ## 🛠 Skills
 - **Programming:** Python, SQL
 - **Data Analysis:** Pandas, NumPy, Statistics
