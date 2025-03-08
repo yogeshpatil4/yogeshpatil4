@@ -12,7 +12,7 @@
 - **Visualization:** Power BI, Excel, Matplotlib
 - **Soft Skills:** Problem-Solving, Communication, Critical Thinking
 
-  📊 **Projects:**  
+ ## 📊 **Projects:**  
 - **IPL Data Analysis:** Gained insights from IPL matches and deliveries dataset.  
 - **Power BI Dashboard:** Built an interactive sales performance dashboard.  
 
