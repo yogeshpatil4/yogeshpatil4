@@ -13,8 +13,8 @@
 - **Soft Skills:** Problem-Solving, Communication, Critical Thinking
 
  ## 📊 **Projects:**  
-- **IPL Data Analysis:** Gained insights from IPL matches and deliveries dataset.  
-- **Power BI Dashboard:** Built an interactive sales performance dashboard.  
+- **Pizza Project sql:** pizza sales data to uncover trends in orders, revenue, and popular products."  
+
 
 
 ## 🌐 Connect with Me
