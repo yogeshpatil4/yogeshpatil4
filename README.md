@@ -9,7 +9,7 @@
 ## 🛠 Skills
 - **Programming:** Python, SQL
 - **Data Analysis:** Pandas, NumPy, Statistics
-- **Visualization:** Power BI, Excel, Matplotlib
+- **Visualization:** Power BI, Excel, Matplotlib, Seaborn
 - **Soft Skills:** Problem-Solving, Communication, Critical Thinking
 
  ## 📊 **Projects:**  
