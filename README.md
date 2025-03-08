@@ -4,11 +4,7 @@
 🎓 Learning Python, SQL, Power BI, and Statistics to solve real-world problems with data.  
 🎯 Aiming to become a **Data Analyst** and help businesses make better decisions through data.  
 
-🔧 **Skills:**  
-- **Programming:** Python, SQL  
-- **Data Analysis:** Pandas, NumPy, Statistics  
-- **Visualization:** Power BI, Excel, Matplotlib  
-- **Soft Skills:** Problem-Solving, Communication, Critical Thinking
+
   
 ## 🛠 Skills
 - **Programming:** Python, SQL
