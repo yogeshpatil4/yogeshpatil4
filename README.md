@@ -29,6 +29,6 @@
 
 
 ## 🌐 Connect with Me
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/yogesh-patil-1b0523270/))
+[![LinkedIn](https://www.linkedin.com/in/yogesh-patil-1b0523270/)
 
-[![Personal Website]([https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com](https://yogeshpatil4.github.io/))
+[![Personal Website](https://www.linkedin.com/in/yogesh-patil-1b0523270/)
