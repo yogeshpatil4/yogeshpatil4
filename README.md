@@ -13,12 +13,22 @@
 - **Soft Skills:** Problem-Solving, Communication, Critical Thinking
 
  ## 📊 **Projects:**  
-- **Pizza Project sql:** pizza sales data to uncover trends in orders, revenue, and popular products."  
+- **Pizza Project SQL:** Analyzed pizza sales data to uncover trends in orders, revenue, and popular products.
+
+- **Netflix Content Analysis (Python):** Analyzed Netflix content data to identify high-performing shows and movies, release patterns, language-based trends, and viewership behavior.
+
+- **Credit Card Dashboard Project (Power BI + SQL):** Developed an interactive Power BI dashboard analyzing credit card transactions, revenue trends, and customer insights using dynamic MySQL integration.
+
+- **Sales Performance & Customer Insights Dashboard (Power BI):** Analyzed sales performance, revenue trends, and customer segmentation using interactive dashboards, providing insights into product performance and customer behavior.
+
+- **Electric Vehicle Population Analysis (Python):** Analyzed electric vehicle (EV) adoption trends, growth over time, geographical distribution, and manufacturers using real-world data from [data.gov](https://www.data.gov/).
+- **🛒 E-commerce SQL Analysis:** Analyzed customer behavior, product trends & payment patterns for an online retailer using MySQL (Joins, CTEs, Window Functions). Cleaned raw data, identified top-selling categories, and calculated CLV.
+- **🏦 Bank Marketing Campaign Analysis (Power BI):** Analyzed 45K customer records to identify high-conversion segments for term deposits. Created interactive dashboards showing subscription patterns by age, job role, and call duration, revealing retired individuals and students as top responders.
+
 
 
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Personal Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/yogesh-patil-1b0523270/))
+
+[![Personal Website]([https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com](https://yogeshpatil4.github.io/))
